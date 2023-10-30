@@ -1,7 +1,7 @@
 ﻿﻿// Author : Cristian Hernan Muller 
 // Project: CristiansBookStore - Assignment 2  
 // Date Created: 2023-10-24 1052 
-// Date Finished:
+// Date Finished: 2023-10-30 18:55
 
 
 //            LOG              //
@@ -82,3 +82,6 @@ Added 3 Class Libraries inside the Solution...
 
 18:53
 Completed the rest of the project. Testing it out...
+
+18:58
+The program is running and working. I proceed to finish the project and commit my last steps to github and pusg them. Starting all over again sure took me by suprise hahaha...
