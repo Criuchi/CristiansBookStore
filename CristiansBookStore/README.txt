@@ -73,3 +73,9 @@ Created a new project since the place the directory and solution in the same fol
 
 17:46
 Commented the sslPort to see the website...
+
+18:07
+Completed the selection of the theme in bootswatch and set it up...
+
+18:08
+Added 3 Class Libraries inside the Solution...
