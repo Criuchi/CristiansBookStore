@@ -128,3 +128,6 @@ class file. After doing it, the error was gone. I consider myself a genius at th
 
 19:34
 Created a new CategoryController.cs Controller inside the Admin Area and updated it's content...
+
+19:49
+Created a new View in Admin named Index and updated it's content...
