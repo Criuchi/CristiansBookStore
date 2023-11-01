@@ -102,3 +102,6 @@ Created a Category.cs Class and then proceeded to update it to the database by i
 
 8:44
 Created a new Folder named Repository with a IRepository folder inside, after that I created a new IRepository.cs Interface item and updated it's content...
+
+9:05
+Created a Repository.cs Class for the Repository folder and replaced it's content with the file provide in the Assignment 2 folder Repository.cs file from Blackboard... 
