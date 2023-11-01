@@ -114,3 +114,6 @@ Updated the code in CategoryRepository.cs adding an Update method to update the 
 
 9:43
 Created an ISP_Call.cs Interface inside IRepository and updated it's content...
+
+10:32
+Updated the content in SP_Call.cs Class to make the connection to the database...
