@@ -120,3 +120,8 @@ Updated the content in SP_Call.cs Class to make the connection to the database..
 
 10:37
 Created an IUnitOfWork.cs Inerface and updated it's content by adding references to the database. This project feels neverending >:^( ....
+
+19:11
+Created an UnitOfWork.cs Class and updated it's content. In addition, I tried to refer both class and interface in the Startup.cs File applying the using directory for both of them. I got
+an error saying that UnitOfWork.cs was not being able to be called. After trying to find solutions by trial and error, I saw that the connection between class and interface is not done in the
+class file. After doing it, the error was gone. I consider myself a genius at this point (not really Im just stressed out hahaha)...
