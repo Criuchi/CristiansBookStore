@@ -108,3 +108,6 @@ Created a Repository.cs Class for the Repository folder and replaced it's conten
 
 9:19
 Created the CategoryRepository.cs Class and ICategoryRepository.cs Interface and updated it's content...
+
+9:27
+Updated the code in CategoryRepository.cs adding an Update method to update the code used in ICategoryRepository.cs...
