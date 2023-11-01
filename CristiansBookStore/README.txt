@@ -105,3 +105,6 @@ Created a new Folder named Repository with a IRepository folder inside, after th
 
 9:05
 Created a Repository.cs Class for the Repository folder and replaced it's content with the file provide in the Assignment 2 folder Repository.cs file from Blackboard... 
+
+9:19
+Created the CategoryRepository.cs Class and ICategoryRepository.cs Interface and updated it's content...
