@@ -97,3 +97,8 @@ Modified the content in appsettings.json and created a new migration called 2023
 
 11:40
 Created a Category.cs Class and then proceeded to update it to the database by initializing a new migration...
+
+-- 2023-11-01
+
+8:44
+Created a new Folder named Repository with a IRepository folder inside, after that I created a new IRepository.cs Interface item and updated it's content...
