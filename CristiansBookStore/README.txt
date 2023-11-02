@@ -131,3 +131,6 @@ Created a new CategoryController.cs Controller inside the Admin Area and updated
 
 19:49
 Created a new View in Admin named Index and updated it's content...
+
+20:07
+Linked the category controller to the dropdown navigation menu in the Layout.cshtml file in Views...
