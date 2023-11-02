@@ -137,3 +137,6 @@ Linked the category controller to the dropdown navigation menu in the Layout.csh
 
 20:22
 Created a category.js file and liked it to the Index.cshtml...
+
+20:35
+Modified the code in the Category Controller and created the Upsert.Razor View. After hours of working I decide to call it a day for now...
