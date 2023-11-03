@@ -157,3 +157,6 @@ Commented the _db.SaveChanges() in CategoryRepository Line 30 since it was menti
 
 10:09
 Added the HttpDelete API and created the Delete method for it...
+
+10:22
+Added the Delete function in Category.js...
