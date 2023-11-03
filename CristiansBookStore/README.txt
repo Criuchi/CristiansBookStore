@@ -145,3 +145,6 @@ Modified the code in the Category Controller and created the Upsert.Razor View. 
 
 9:08
 Created the _CreateAndBackToList and _EditAndBackToList Views to be used for the form located in Upsert.cshtml...
+
+9:21
+Modified the Upsert file in order to call the views that we have created before...
