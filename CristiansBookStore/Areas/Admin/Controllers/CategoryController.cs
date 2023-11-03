@@ -38,7 +38,7 @@ namespace CristiansBookStore.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            return View();
+            return View(category);
 
         }
 

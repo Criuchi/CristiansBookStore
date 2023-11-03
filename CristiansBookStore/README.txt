@@ -160,3 +160,9 @@ Added the HttpDelete API and created the Delete method for it...
 
 10:22
 Added the Delete function in Category.js...
+
+10:24
+With all the steps finished, I will proceed to run the program and see if everything is working properly
+
+10:50
+Modified the code since I was having an error that involved the return view of one of the methods in the controller. After modifying the code and running it again, the project is finished and I conclude to call it an end...
