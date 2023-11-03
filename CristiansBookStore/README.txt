@@ -148,3 +148,6 @@ Created the _CreateAndBackToList and _EditAndBackToList Views to be used for the
 
 9:21
 Modified the Upsert file in order to call the views that we have created before...
+
+9:48
+Moified the content of Index and Upsert to call the create and edit views. After finishing that and test it, I created a new POST method in the CategoryController.cs and added a Void Save in IUnitOfWork to make use of the Save method... 

@@ -42,6 +42,27 @@ namespace CristiansBookStore.Areas.Admin.Controllers
 
         }
 
+        //Use HTTP POST to define the post-action method
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+
+        public IActionResult Upsert(Category category)
+        {
+            if(ModelState.IsValid)
+            {
+                if(category.Id == 0)
+                {
+                    _unitOfWork.Category.Add(category);
+                    _unitOfWork.Save();
+                }
+                else
+                {
+                    _unitOfWork.Category.Update(category);
+                }
+            }
+            return View(category);
+        }
+
         //API calls here
         #region API CALLS
         [HttpGet]
