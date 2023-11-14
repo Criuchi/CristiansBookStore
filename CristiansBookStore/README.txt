@@ -166,3 +166,10 @@ With all the steps finished, I will proceed to run the program and see if everyt
 
 10:50
 Modified the code since I was having an error that involved the return view of one of the methods in the controller. After modifying the code and running it again, the project is finished and I conclude to call it an end...
+
+
+//         Part 3         //
+
+-- 2023-11-14
+
+Created the Category.cs and CoverType.cs Classes inside CristianBooks.Models and modified it's content to create a new database for products...
