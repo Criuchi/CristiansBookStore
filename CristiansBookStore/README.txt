@@ -1,5 +1,5 @@
 ﻿﻿// Author : Cristian Hernan Muller 
-// Project: CristiansBookStore - Assignment 2  
+// Project: CristiansBookStore - Assignment 3  
 // Date Created: 2023-10-24 1052 
 // Date Finished: 2023-10-30 18:55
 
@@ -188,3 +188,12 @@ Created the migration AddCoverTypeToDb succesfully and updated the database with
 
 5:28
 Created the CoverTypeController.cs and modified the code with the same structure as the CategoryController.cs while replacing all the content related to categories with CoverType instead...
+
+6:22
+Created the Index.cshtml and Upsert.cshtml files for CoverType folder inside Views and updated the code to make the new database display it's data...
+
+6:31
+Created a new CoverType.js file to make the calls to the API. After this, I proceed to test the program...
+
+6:33
+Everything is working perfectly so I proceed to move on to the next step...
