@@ -180,4 +180,8 @@ Created the CoverTypeRepository and ICoverTypeRepository and modified the conten
 
 -- 2023-11-15
 
+5:05
 Added some code to make sure the upcoming migration runs properly to continue with the project...
+
+5:07
+Created the migration AddCoverTypeToDb succesfully and updated the database with no errors found. Moving on to the next step of the assignment...
