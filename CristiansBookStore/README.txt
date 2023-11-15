@@ -197,3 +197,6 @@ Created a new CoverType.js file to make the calls to the API. After this, I proc
 
 6:33
 Everything is working perfectly so I proceed to move on to the next step...
+
+6:39
+Created a new Migration called AddProductToDb and updated the database. No errors were found..
