@@ -185,3 +185,6 @@ Added some code to make sure the upcoming migration runs properly to continue wi
 
 5:07
 Created the migration AddCoverTypeToDb succesfully and updated the database with no errors found. Moving on to the next step of the assignment...
+
+5:28
+Created the CoverTypeController.cs and modified the code with the same structure as the CategoryController.cs while replacing all the content related to categories with CoverType instead...
