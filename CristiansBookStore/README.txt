@@ -172,6 +172,12 @@ Modified the code since I was having an error that involved the return view of o
 
 -- 2023-11-14
 
+18:07 
 Created the Category.cs and CoverType.cs Classes inside CristianBooks.Models and modified it's content to create a new database for products...
 
+18:25
 Created the CoverTypeRepository and ICoverTypeRepository and modified the content in UnitOfWork and IUnitOfWork to reference the CoverType Repositories...
+
+-- 2023-11-15
+
+Added some code to make sure the upcoming migration runs properly to continue with the project...
