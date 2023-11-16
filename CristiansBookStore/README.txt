@@ -210,3 +210,11 @@ Changed the validation for Title, Author and ISBN to required and created a new 
 8:35
 Got an issue with the code which was preventing it from working, it seems to be related to the Product migrations so I will proceed to delete them and all the files related to product, and start
 all over again tomorrow...
+
+-- 2023-11-16
+
+16:10
+Managed to fix the database error by doing so many things I dont even remeber what I did. Moving on to the next project...
+
+16:12
+Created the migration for 20231116220814_addProductToDb succesfully...
