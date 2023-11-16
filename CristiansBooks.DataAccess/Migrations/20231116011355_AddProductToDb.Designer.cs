@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CristiansBooks.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231115233831_AddProductToDb")]
+    [Migration("20231116011355_AddProductToDb")]
     partial class AddProductToDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

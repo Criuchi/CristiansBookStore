@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CristiansBooks.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231115235053_AddValidationToProduct")]
+    [Migration("20231116011636_AddValidationToProduct")]
     partial class AddValidationToProduct
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
