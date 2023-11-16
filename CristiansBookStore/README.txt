@@ -218,3 +218,6 @@ Managed to fix the database error by doing so many things I dont even remeber wh
 
 16:12
 Created the migration for 20231116220814_addProductToDb succesfully...
+
+16:55
+Created the ProductRepository and IProductRepository files and modified UnitOfWork and IUnitOfWork and everything is working right now...
