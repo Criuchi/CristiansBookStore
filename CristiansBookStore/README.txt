@@ -230,3 +230,8 @@ Created the ProductVM file in ViewModels and modified it's content. In addition,
 
 18:32
 Created the index and upsert for Product and created the Product.js file. Proceeding to test the program...
+
+-- 2023-11-17
+
+17:12
+Applied the Tiny Could API into Upsert.cshtml in Products View by modifying the code...
