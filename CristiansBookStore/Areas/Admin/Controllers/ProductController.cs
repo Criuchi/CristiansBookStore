@@ -60,27 +60,27 @@ namespace CristiansBookStore.Areas.Admin.Controllers
             return View(productVM);
         }
 
-        /*
-        public IActionResult Upsert(CoverType coverType)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Product product)
         {
             if (ModelState.IsValid) // checks all the validations in the model
             {
-                if (coverType.Id == 0)
+                if (product.Id == 0)
                 {
-                    _unitOfWork.CoverType.Add(coverType);
-                    _unitOfWork.Save();
+                    _unitOfWork.Product.Add(product);
                 }
                 else
                 {
-                    _unitOfWork.CoverType.Update(coverType);
+                    _unitOfWork.Product.Update(product);
                 }
                 _unitOfWork.Save();
                 return RedirectToAction(nameof(Index)); // to see all the cover types
             }
-            return View(coverType);
+            return View(product);
         }
 
-        */
+        
         //API calls here
         #region API CALLS
         [HttpGet]

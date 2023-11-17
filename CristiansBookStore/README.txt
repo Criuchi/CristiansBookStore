@@ -235,3 +235,10 @@ Created the index and upsert for Product and created the Product.js file. Procee
 
 17:12
 Applied the Tiny Could API into Upsert.cshtml in Products View by modifying the code...
+
+18:23
+Uncommented the Upsert post method and ran the program, the layout of the website shows as it was shown in the tutorial but I still have the same exception when I run the product table and 
+a database error too. After finishing this and trying to find a solution with no success, I will call it a day and go home because that PHP assignment will not be done by itself sadly...
+
+18:25
+Good news. Tomorrow I work in Open House and they have confirmed that we have fre breakfast and free lunch. Im feeling good aagain 8)

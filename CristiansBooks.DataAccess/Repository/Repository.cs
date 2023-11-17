@@ -1,4 +1,5 @@
 ﻿using CristiansBooks.DataAccess.Repository.IRepository;
+using CristiansBooks.Models;
 using CristiansBookStore.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
