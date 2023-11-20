@@ -91,6 +91,8 @@ namespace CristiansBooks.DataAccess.Migrations
 
                     b.HasIndex("CategoryId");
 
+                    b.HasIndex("CoverTypeId");
+
                     b.ToTable("Products");
                 });
 
@@ -304,7 +306,7 @@ namespace CristiansBooks.DataAccess.Migrations
 
                     b.HasOne("CristiansBooks.Models.CoverType", "CoverType")
                         .WithMany()
-                        .HasForeignKey("CategoryId")
+                        .HasForeignKey("CoverTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

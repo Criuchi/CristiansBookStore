@@ -242,3 +242,9 @@ a database error too. After finishing this and trying to find a solution with no
 
 18:25
 Good news. Tomorrow I work in Open House and they have confirmed that we have fre breakfast and free lunch. Im feeling good aagain 8)
+
+-- 2023-11-20
+
+3:32
+Tried to figure out the issue of the exception I get after I click on product. After using the debugging tools , I could tell
+that the error seems to be somewhere within the GetAll function. I will try to solve it based on that information...

@@ -60,8 +60,11 @@ namespace CristiansBookStore.Areas.Admin.Controllers
             return View(productVM);
         }
 
+
         [HttpPost]
         [ValidateAntiForgeryToken]
+
+
         public IActionResult Upsert(Product product)
         {
             if (ModelState.IsValid) // checks all the validations in the model

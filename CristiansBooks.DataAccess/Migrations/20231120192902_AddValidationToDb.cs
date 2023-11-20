@@ -2,7 +2,7 @@
 
 namespace CristiansBooks.DataAccess.Migrations
 {
-    public partial class addValidationToProduct : Migration
+    public partial class AddValidationToDb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
