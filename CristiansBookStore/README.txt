@@ -248,3 +248,6 @@ Good news. Tomorrow I work in Open House and they have confirmed that we have fr
 3:32
 Tried to figure out the issue of the exception I get after I click on product. After using the debugging tools , I could tell
 that the error seems to be somewhere within the GetAll function. I will try to solve it based on that information...
+
+3:48
+Still had no solution for my issue, so i will proceed to call it a day.
