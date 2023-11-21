@@ -251,3 +251,7 @@ that the error seems to be somewhere within the GetAll function. I will try to s
 
 3:48
 Still had no solution for my issue, so i will proceed to call it a day.
+
+20:20
+Finally found out that the issue became from an extra space in the ProductController file. After doing that the issue dissapeared but found a new one when I create the new product and it does not
+show up in the table. Im more than happy with what I did so I will call it a day...
