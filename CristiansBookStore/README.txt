@@ -278,3 +278,9 @@ I finally fixed my error and proceeded to add the new fields and modify the Upse
 
 2:50
 Modified the controller to update the content to show the new information...
+
+3:56
+Modified the index.cshtml in Customers to display the whole product created in the home page...
+
+3:59
+Found an error in the Model Object that is stating to be not referenced or null. Proceeding to solve the issue...
