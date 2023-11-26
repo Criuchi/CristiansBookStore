@@ -272,3 +272,9 @@ Got an error saying that an object named Products already exists. Trying to find
 
 1:12
 Tried to create a new database again but it is not helping fix my error...
+
+2:46
+I finally fixed my error and proceeded to add the new fields and modify the Upsert.cshtml file to create the new input fields in html...
+
+2:50
+Modified the controller to update the content to show the new information...

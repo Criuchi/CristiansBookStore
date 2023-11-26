@@ -44,7 +44,7 @@ namespace CristiansBooks.DataAccess.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Products_CoverTypes_CategoryId",
+                        name: "FK_Products_CoverTypes_CovertypeId",
                         column: x => x.CategoryId,
                         principalTable: "CoverTypes",
                         principalColumn: "Id",
