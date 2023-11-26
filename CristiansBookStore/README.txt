@@ -257,7 +257,7 @@ Finally found out that the issue became from an extra space in the ProductContro
 show up in the table. Im more than happy with what I did so I will call it a day...
 
 
-//         Part 3         //
+//         Part 4         //
 
 -- 2023-11-26
 
@@ -269,3 +269,6 @@ Created the new 20231126174447_AddNewFieldsToDb Migration and Updated the databa
 
 12:55 
 Got an error saying that an object named Products already exists. Trying to find the solution to that...
+
+1:12
+Tried to create a new database again but it is not helping fix my error...
