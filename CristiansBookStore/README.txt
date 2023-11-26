@@ -1,5 +1,5 @@
 ﻿﻿// Author : Cristian Hernan Muller 
-// Project: CristiansBookStore - Assignment 3  
+// Project: CristiansBookStore - Assignment 2 
 // Date Created: 2023-10-24 1052 
 // Date Finished: 2023-10-30 18:55
 
@@ -255,3 +255,17 @@ Still had no solution for my issue, so i will proceed to call it a day.
 20:20
 Finally found out that the issue became from an extra space in the ProductController file. After doing that the issue dissapeared but found a new one when I create the new product and it does not
 show up in the table. Im more than happy with what I did so I will call it a day...
+
+
+//         Part 3         //
+
+-- 2023-11-26
+
+12:53
+Added the new fields in Product.cs and created the migration to add them...
+
+12:53
+Created the new 20231126174447_AddNewFieldsToDb Migration and Updated the database
+
+12:55 
+Got an error saying that an object named Products already exists. Trying to find the solution to that...
