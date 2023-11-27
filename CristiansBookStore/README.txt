@@ -284,3 +284,8 @@ Modified the index.cshtml in Customers to display the whole product created in t
 
 3:59
 Found an error in the Model Object that is stating to be not referenced or null. Proceeding to solve the issue...
+
+-- 2023-11-27
+
+14:08
+Created the images folder and product subfolder...
