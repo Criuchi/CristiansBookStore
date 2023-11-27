@@ -299,3 +299,5 @@ Found the error, I didnt update the content in the HomeController to access the 
 17:47
 After trying many different things and having help from my classmates. I realize that the image do show up when you update the content.
 
+17:50
+Tried running the program and everything works. I proceed to finish it...
