@@ -295,3 +295,7 @@ Tried to fix my errors but they were impossible for me to solve. As of right now
 
 17:28
 Found the error, I didnt update the content in the HomeController to access the model. but the images are not showing sos I will proceed to fix that...
+
+17:47
+After trying many different things and having help from my classmates. I realize that the image do show up when you update the content.
+
