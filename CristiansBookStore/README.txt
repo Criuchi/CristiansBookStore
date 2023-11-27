@@ -289,3 +289,6 @@ Found an error in the Model Object that is stating to be not referenced or null.
 
 14:08
 Created the images folder and product subfolder...
+
+15:48
+Tried to fix my errors but they were impossible for me to solve. As of right now, I will call my work a failure...
