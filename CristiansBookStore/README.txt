@@ -301,3 +301,8 @@ After trying many different things and having help from my classmates. I realize
 
 17:50
 Tried running the program and everything works. I proceed to finish it...
+
+-- 2023-11-28
+
+9:28
+Changed the text color to show the infomration properly since my theme colors were not proper
