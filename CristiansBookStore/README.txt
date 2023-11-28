@@ -309,3 +309,6 @@ Changed the text color to show the infomration properly since my theme colors we
 
 9:31
 Tested everything and now everything is ok...
+
+10:14
+Updated the images in the folder...
