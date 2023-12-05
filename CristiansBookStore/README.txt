@@ -1,10 +1,13 @@
 ﻿﻿// Author : Cristian Hernan Muller 
 // Project: CristiansBookStore - Assignment 2 
-// Date Created: 2023-10-24 1052 
-// Date Finished: 2023-10-30 18:55
+// Date Created: 2023-10-24 10:52 
+// Date Finished: 2023-12-5 10:00
 
 
-//            LOG              //
+//___________.LOG.____________//
+
+
+//         Part 1         //
 
 -- 2023-10-24
 
@@ -85,6 +88,9 @@ Completed the rest of the project. Testing it out...
 
 18:58
 The program is running and working. I proceed to finish the project and commit my last steps to github and pusg them. Starting all over again sure took me by suprise hahaha...
+
+
+//         Part 2         //
 
 
 -- 2023-10-31
@@ -324,3 +330,16 @@ Modified the index.cshtml in the home page of Customer view...
 
 9:32
 Modified the text to white so the ocntent in the home page is visible...
+
+9:33
+Uncommented the sslPort in launchSettings.json line 7 inside the Properties Folder to be opened from a different computer...
+
+9:37
+LAST REPORT: The project has been finished and partially works expect for few issues so I conclude to call it a failure because of the following reasons:
+
+- Error when you update the database saying 'FK_Products_CoverTypes_CategoryId' is not a constraint. and I could not find the solution to it...
+
+- Images dont show up in the index page of Customer when you create a product. BUT it does show when you go back to the product table and click 
+  the edit button and upload it there...
+  
+- The Price field in the product table is not showing...
