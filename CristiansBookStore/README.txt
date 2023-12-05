@@ -302,7 +302,9 @@ After trying many different things and having help from my classmates. I realize
 17:50
 Tried running the program and everything works. I proceed to finish it...
 
+
 -- 2023-11-28
+
 
 9:28
 Changed the text color to show the infomration properly since my theme colors were not proper...
@@ -312,3 +314,10 @@ Tested everything and now everything is ok...
 
 10:14
 Updated the images in the folder...
+
+
+-- 2023-12-05
+
+
+9:22
+Modified the index.cshtml in the home page of Customer view...
